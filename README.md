@@ -1,2 +1,3 @@
-# melanie_smoothies
-This will be a web version of custom smoothie order form 
+# Melanie Smoothies
+
+Web version of the smoothie custom web form
